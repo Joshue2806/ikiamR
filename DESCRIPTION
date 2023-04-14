@@ -1,8 +1,8 @@
 Package: ikiamR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A package for training
 Version: 0.1.0
-Author: Who wrote it
+Author: Moises Gualapuro
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
@@ -12,3 +12,6 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/Joshue2806/ikiamR
 BugReports: https://github.com/Joshue2806/ikiamR/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
