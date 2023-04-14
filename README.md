@@ -2,7 +2,9 @@
 ikiamR: a demo package
 ===============================================
 
-This is a demo package from R4DS tutorial. Aquí se debe añadir la información de todo lo que hace el paquete
+This is a demo package from R4DS tutorial. <!-- Aquí se debe añadir la información de todo lo que hace el paquete -->
+
+Any suggestion do not hesitage to contact at joshue.ruiz@est.ikiam.edu.ec
 
 
 Installation and loading
