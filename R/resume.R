@@ -13,5 +13,5 @@
 resumen <- function(x){
   meanx = mean(x, na.rm = TRUE)
   sdx = sd(x, na.rm = TRUE)
-  print(meanx, sdx)
+  print(c(meanx, sdx))
 }
